@@ -1,0 +1,46 @@
+[ 
+{
+    "name": "Accept-All Email Detection",
+   "description" : "We find which addresses are associated with Accept-All servers so you can assess the risk in sending to those addresses."
+},
+{
+  "name":"SMTP Provider Information" ,
+  "description":"Automatically determine the email provider that each email address is using."
+},
+{
+    "name":"Syntax Validation" ,
+    "description": "Ensures the address has all the characteristics of a legitimate email address before you send. "
+  },
+  {
+    "name":"Domain Validation" ,
+    "description" :"Checks that the domain name hosting the email address actually exists and is working properly."
+  },
+  {
+    "name":"Email Quality Score" ,
+    "description":"We give every email address on your list a quality score from 0 to 100."
+  },
+  {
+    "name":"Customized Exports" ,
+    "description":"Handpick and export only the email addresses you want to send to with ease."
+  },
+  {
+    "name":"Real-Time Results" ,
+    "description":"View the results of your email verification as we process the list in real-time."
+  },
+  {
+    "name":"Name & Gender Detection" ,
+"description":"Our system attempts to enrich emails in your list with a first and last name  and the gender of emails in your list."
+  },
+  {
+    "name":"Drag & Drop Interface" ,
+   "description":"Easily drag and drop or copy and paste your email list directly from your computer."
+  },
+  {
+    "name":"24/7 Support" ,
+    "description":"We're here to help! Our friendly staff is available to answer questions through chat and email."
+  }
+
+]
+
+
+
