@@ -26,16 +26,16 @@ const Header = (props) => {
     <div className='w-344px h-44px gap-8 flex justify-between items-center'>
       <div>
         <button className='w-[100px] lg:w-[300px] h-[44px] rounded-[12px] p-[
-12px, 16px, 12px, 16px] gap-[2px]  lg:10px text-[10px] md:text-[16px] lg:text-[32px] font-sans font-semibold text-center leading-20px'>Single Verification</button>
+12px, 16px, 12px, 16px] gap-[2px]  text-[10px] md:text-[16px] lg:text-[24px] font-sans font-semibold text-center leading-20px'>Single Verification</button>
       </div>
       <div><button className='w-156px h-44px rounded-[12px] p-[
-12px, 16px, 12px, 16px] gap-[2px] lg:10px text-[10px] md:text-[16px] lg:text-[32px] font-sans font-semibold text-center leading-20px'>Features</button></div>
+12px, 16px, 12px, 16px] gap-[2px]  text-[10px] md:text-[16px] lg:text-[24px] font-sans font-semibold text-center leading-20px'>Features</button></div>
       <div><button className='w-156px h-44px rounded-[12px] p-[
-12px, 16px, 12px, 16px] gap-[2px] lg:10px text-[10px] md:text-[16px] lg:text-[32px] font-sans font-semibold text-center leading-20px'>Pricing</button></div>
+12px, 16px, 12px, 16px] gap-[2px]  text-[10px] md:text-[16px] lg:text-[24px] font-sans font-semibold text-center leading-20px'>Pricing</button></div>
     </div>
     <div className='w-251px h-44px gap-6 lg:gap-12  flex'>
-      <div ><button className='w-150px md:w-200px lg:w-250px h-44px px-4 py-3 rounded-[12px] border-2 border-solid-[#0000000D] lg:10px text-[10px] md:text-[16px] lg:text-[32px]   font-sans font-semibold text-center leading-20px '>Register or Login</button></div>
-      <div><button className='w-150px h-44px px-4 py-3 rounded-[12px]  bg-[#0000000D] lg:10px text-[10px] md:text-[16px] lg:text-[32px]  font-sans font-semibold text-center leading-20px'>Try Now</button></div>
+      <div ><button className='w-150px md:w-200px lg:w-250px h-44px px-4 py-2 rounded-[12px] border-2 border-solid-[#0000000D] text-[10px] md:text-[16px] lg:text-[24px]   font-sans font-semibold text-center leading-16px '>Register or Login</button></div>
+      <div><button className='w-150px h-44px px-4 py-3 rounded-[12px]  bg-[#0000000D] text-[10px] md:text-[16px] lg:text-[24px]  font-sans font-semibold text-center leading-16px'>Try Now</button></div>
     </div>
 </div>
 {/* navigation bar end */}

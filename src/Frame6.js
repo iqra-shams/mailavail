@@ -6,7 +6,7 @@ const Frame6 = (props) => {
         <div> 
            
     
-        <div className='  md:w-[700px] lg:w-[1160px] h-[440px] m-10 bg-slate-100 rounded-[24px]  mx-[10%] md:mx-[15%] lg:mx-[27%] my-[5%] flex flex-wrap justify-center '>
+        <div className='  md:w-[700px] lg:w-[1100px] h-[440px] md:h-[350px] m-10 bg-slate-100 rounded-[24px]  mx-[5%]  my-[5%] flex flex-wrap justify-center '>
         {/* <button className={`p-2 text-center text-[#F97316]   ${ props.offer === '500 Free Credits' ? 'text-pink-500 leading-6  font-bold text-[16px] w-[20%]   rounded-[25px] mx-96 bg-pink-300' : 'text-[#F97316] font-semibold text-[14px] leading-4 ' }`}><img src={props.icon}/> {props.offer} </button>  */}
         <button className='p-3 rounded-[25px] flex gap-1 md:mx-[30%] lg:mx-[40%] mt-10 items-center   text-pink-500 leading-6 text-center font-bold text-[16px] w-[174px] bg-pink-300'><img src={props.icon}  />{props.offer}</button>
         <p className='text-center font-sans md:text-[32px] lg:text-[48px] leading-[58px] font-semibold pt-10'> {props.title}</p>

@@ -41,9 +41,9 @@ const Frame3 = () => {
 
         <div className='text-center my-20'>
 
-<p className='  md:text-[38px] lg:text-[48px]  md:leading-[72px] font-bold text-center'>Benefits of using our Platform</p>
+<p className='  text-[24px] md:text-[36px] lg:text-[48px]  md:leading-[72px] font-bold text-center'>Benefits of using our Platform</p>
 </div>
-<div className='mx-[8%] md:mx-[18%]  lg:mx-[28%]  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-[320px] md:w-[620px]  lg:w-[1200px] content-center space-x-4 '>
+<div className='mx-[7%]  grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-[320px] md:w-[620px]  lg:w-[1200px] content-center space-x-4 '>
 <div className='w-[300px] h-[240px]'>
   <div className='my-5'><img src={smile} alt='not found'/></div>
   <div className='font-sans font-semibold text-[24px] leading-8'>Secure</div>

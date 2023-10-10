@@ -6,11 +6,11 @@ const Frame4 = (props) => {
     <div>
        
 
-   <div className='w-[400px] md:w-[600px]   lg:w-[1200px]  h-[440px]  bg-slate-100 rounded-[24px] py-[10] mx-[10%] md:mx-[19%] lg:mx-[27%] my-[5%] flex    justify-center text-center items-center'>
+   <div className='w-[400px] md:w-[600px]   lg:w-[1100px]  h-[440px]  bg-slate-100 rounded-[24px] py-[10] mx-[5%]   my-[5%] flex    justify-center text-center items-center'>
    <div className=''>
     <p className='  rounded-[25px] flex gap-1  lg:mx-[25%] items-center  lg:p-10 text-[#F97316] font-semibold px-10 md:px-40 text-[14px] leading-4 '>{props.offer}</p>
-    <p className='text-center font-sans lg:text-[44px] md:text-[24px]  sm:text-[18px]  font-semibold pt-10 '> {props.title}</p>
-    <p className='sm:text-[12] md:text-[16] lg:text-[18px] font-medium font-sans leading-[28px] text-center my-10 sm:p-5'>{props.desc}</p>
+    <p className='mr-24 font-sans lg:text-[44px] md:text-[24px]  sm:text-[18px]  font-semibold pt-10 '> {props.title}</p>
+    <p className='text-[12] md:text-[16] lg:text-[18px] font-normal md:font-medium font-sans leading-[28px] text-center my-10 sm:p-5'>{props.desc}</p>
     <button className=' h-[48px] font-semibold text-center text-white md:ml-[-20%] $ bg-[#2563EB] w-[136px] text-[16px] rounded-[12px]'>{props.butn} </button>
     </div>
     {/* <div className='flex mt-10'> */}
